@@ -1,0 +1,8 @@
+telegram_token: "Your telegram bot token"
+gemini_api: "Your Gemini API Key"
+chatgpt_api: "Your ChatGPT API Key"
+allowed_telegram_usernames: []
+new_dialog_timeout: 600
+enable_message_streaming: true
+n_chat_modes_per_page: 5
+chatgpt_model: "gpt-3.5-turbo"
