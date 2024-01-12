@@ -2,7 +2,7 @@ import yaml
 import dotenv
 from pathlib import Path
 
-main_folder = Path("$HOME/Desktop/tg-bot/telegram-bot")
+main_folder = Path("$HOME/Desktop/telegram-bot")
 config_dir = Path(main_folder / "config")
 
 # load yaml config
